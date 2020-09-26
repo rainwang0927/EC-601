@@ -1,0 +1,3088 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 26 22:05:28 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1309977415771467780",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/5onQ93Eisu"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 57528518,
+                "id_str": "57528518",
+                "indices": [
+                    92,
+                    106
+                ],
+                "name": "Lele.",
+                "screen_name": "ALESHIAOCASIO"
+            }
+        ]
+    },
+    "favorite_count": 2814,
+    "favorited": false,
+    "geo": null,
+    "id": 1309977415771467780,
+    "id_str": "1309977415771467780",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Sep 26 19:47:02 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1309942577571954689",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/iiLB7g54VK"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 23083404,
+                    "id_str": "23083404",
+                    "indices": [
+                        83,
+                        93
+                    ],
+                    "name": "LeBron James",
+                    "screen_name": "KingJames"
+                }
+            ]
+        },
+        "favorite_count": 225,
+        "favorited": false,
+        "geo": null,
+        "id": 1309942577571954689,
+        "id_str": "1309942577571954689",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 41,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\"Being a softball player, we don't have the same viewership or visibility as, say, @KingJames might have or another\u2026 https://t.co/iiLB7g54VK",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jun 17 17:26:15 +0000 2020",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Don't just watch from the sidelines.\nRegister to vote: https://t.co/y2WaKl4xc1\nWork the polls: https://t.co/gMfo7uyOuw\nFight voter suppression: https://t.co/I9HQWfGJLC",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "more.vote/register",
+                            "expanded_url": "http://more.vote/register",
+                            "indices": [
+                                55,
+                                78
+                            ],
+                            "url": "https://t.co/y2WaKl4xc1"
+                        },
+                        {
+                            "display_url": "more.vote/next",
+                            "expanded_url": "http://more.vote/next",
+                            "indices": [
+                                95,
+                                118
+                            ],
+                            "url": "https://t.co/gMfo7uyOuw"
+                        },
+                        {
+                            "display_url": "more.vote/store",
+                            "expanded_url": "http://more.vote/store",
+                            "indices": [
+                                144,
+                                167
+                            ],
+                            "url": "https://t.co/I9HQWfGJLC"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "morethanavote.org",
+                            "expanded_url": "http://morethanavote.org",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/nvoL0Ht5Hy"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 58,
+            "follow_request_sent": false,
+            "followers_count": 31078,
+            "following": false,
+            "friends_count": 60,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1273305944902873089,
+            "id_str": "1273305944902873089",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 158,
+            "location": "",
+            "name": "More Than A Vote",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1273305944902873089/1592508172",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1273697320266153984/PPpn_CQc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273697320266153984/PPpn_CQc_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "morethanavote",
+            "statuses_count": 228,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/nvoL0Ht5Hy",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 1309942577571954689,
+    "quoted_status_id_str": "1309942577571954689",
+    "retweet_count": 283,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "And that\u2019s part of the reason why this was and so many other things I do is created for you @ALESHIAOCASIO to not o\u2026 https://t.co/5onQ93Eisu",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 25 17:45:22 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 257959346,
+                "id_str": "257959346",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Lawyers' Committee \u260e\ufe0f866-OUR-VOTE",
+                "screen_name": "LawyersComm"
+            },
+            {
+                "id": 23083404,
+                "id_str": "23083404",
+                "indices": [
+                    35,
+                    45
+                ],
+                "name": "LeBron James",
+                "screen_name": "KingJames"
+            },
+            {
+                "id": 1273305944902873089,
+                "id_str": "1273305944902873089",
+                "indices": [
+                    52,
+                    66
+                ],
+                "name": "More Than A Vote",
+                "screen_name": "morethanavote"
+            },
+            {
+                "id": 15896350,
+                "id_str": "15896350",
+                "indices": [
+                    94,
+                    105
+                ],
+                "name": "Election Protection",
+                "screen_name": "866OURVOTE"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1309549572100939777,
+    "id_str": "1309549572100939777",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 348,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Sep 24 21:00:31 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1309236295156277254",
+                    "indices": [
+                        120,
+                        143
+                    ],
+                    "url": "https://t.co/1MxLsoTZsa"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 23083404,
+                    "id_str": "23083404",
+                    "indices": [
+                        18,
+                        28
+                    ],
+                    "name": "LeBron James",
+                    "screen_name": "KingJames"
+                },
+                {
+                    "id": 1273305944902873089,
+                    "id_str": "1273305944902873089",
+                    "indices": [
+                        35,
+                        49
+                    ],
+                    "name": "More Than A Vote",
+                    "screen_name": "morethanavote"
+                },
+                {
+                    "id": 15896350,
+                    "id_str": "15896350",
+                    "indices": [
+                        77,
+                        88
+                    ],
+                    "name": "Election Protection",
+                    "screen_name": "866OURVOTE"
+                }
+            ]
+        },
+        "favorite_count": 1498,
+        "favorited": false,
+        "geo": null,
+        "id": 1309236295156277254,
+        "id_str": "1309236295156277254",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 348,
+        "retweeted": false,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "We partnered with @KingJames &amp; @morethanavote to raise awareness for the @866OURVOTE Election Protection Hotline\u2014a\u2026 https://t.co/1MxLsoTZsa",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Feb 26 17:12:16 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Lawyers' Committee for Civil Rights Under Law. Led by @KristenClarkeJD. #Justice2020. We lead @866OURVOTE. Donate today: https://t.co/jugYlk52TV",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/2OYLO9R",
+                            "expanded_url": "http://bit.ly/2OYLO9R",
+                            "indices": [
+                                121,
+                                144
+                            ],
+                            "url": "https://t.co/jugYlk52TV"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "lawyerscommittee.org",
+                            "expanded_url": "http://www.lawyerscommittee.org",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/UeGRS5n7xx"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 22104,
+            "follow_request_sent": false,
+            "followers_count": 54917,
+            "following": false,
+            "friends_count": 3651,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 257959346,
+            "id_str": "257959346",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 790,
+            "location": "Washington, DC",
+            "name": "Lawyers' Committee \u260e\ufe0f866-OUR-VOTE",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/257959346/1600352209",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145689224047411201/8n2CGFKr_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145689224047411201/8n2CGFKr_normal.png",
+            "profile_link_color": "133590",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LawyersComm",
+            "statuses_count": 31913,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/UeGRS5n7xx",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LawyersComm: We partnered with @KingJames &amp; @morethanavote to raise awareness for the @866OURVOTE Election Protection Hotline\u2014a number\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 24 02:21:01 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 24007253,
+                "id_str": "24007253",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "73-9 and they LIED \ud83c\udfc1",
+                "screen_name": "CuffsTheLegend"
+            }
+        ]
+    },
+    "favorite_count": 3368,
+    "favorited": false,
+    "geo": null,
+    "id": 1308954561428836353,
+    "id_str": "1308954561428836353",
+    "in_reply_to_screen_name": "CuffsTheLegend",
+    "in_reply_to_status_id": 1308948769627668480,
+    "in_reply_to_status_id_str": "1308948769627668480",
+    "in_reply_to_user_id": 24007253,
+    "in_reply_to_user_id_str": "24007253",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 297,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CuffsTheLegend My favorite tag-team of All-Time bro!! Forever Hawk &amp; Animal",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 24 01:20:33 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 17069,
+    "favorited": false,
+    "geo": null,
+    "id": 1308939345714438145,
+    "id_str": "1308939345714438145",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1516,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Mema Brinson, Deidra Norris, Pam Walker, Tanesha Walker, Chanelle Walker, Brenda Weems, Caddie Powers I LOVE YOU Queens!!! \ud83d\udda4\ud83d\udda4\ud83d\udda4\ud83d\udda4\ud83d\udda4",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 24 01:18:17 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 37310,
+    "favorited": false,
+    "geo": null,
+    "id": 1308938773993000960,
+    "id_str": "1308938773993000960",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3092,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Grandma Freda, Gloria Marie, Savannah Rachael, Zhuri Ann Marie Nova I LOVE YOU MY BLACK QUEENS more than life itself!! \ud83d\udc78\ud83c\udffe\ud83d\udda4\ud83d\udda4\ud83d\udda4\ud83d\udda4",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 24 00:59:53 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1308934144865579010",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/2EuMKrbAbW"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 273202,
+    "favorited": false,
+    "geo": null,
+    "id": 1308934144865579010,
+    "id_str": "1308934144865579010",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 58381,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The most DISRESPECTED person on earth is THE BLACK WOMAN! I promise you I\u2019ll do my best to change this as much as I\u2026 https://t.co/2EuMKrbAbW",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 24 00:57:00 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 49348,
+    "favorited": false,
+    "geo": null,
+    "id": 1308933418454052866,
+    "id_str": "1308933418454052866",
+    "in_reply_to_screen_name": "KingJames",
+    "in_reply_to_status_id": 1308933417728454660,
+    "in_reply_to_status_id_str": "1308933417728454660",
+    "in_reply_to_user_id": 23083404,
+    "in_reply_to_user_id_str": "23083404",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 5867,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "my love to Breonna mother, family and \nfriends! I\u2019m sorry! I\u2019m sorry! I\u2019m sorry!! \ud83d\ude14\ud83d\ude14\ud83e\udd7a\ud83e\udd7a\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 24 00:57:00 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1308933417728454660",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/zkzL5PZ4lM"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 134585,
+    "favorited": false,
+    "geo": null,
+    "id": 1308933417728454660,
+    "id_str": "1308933417728454660",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 21305,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I\u2019ve been lost for words today! I\u2019m devastated, hurt, sad, mad! We want Justice for Breonna yet justice was met for\u2026 https://t.co/zkzL5PZ4lM",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 24 00:49:44 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtube.com/watch?v=46kfcJ\u2026",
+                "expanded_url": "https://www.youtube.com/watch?v=46kfcJhiIA8#action=share",
+                "indices": [
+                    18,
+                    41
+                ],
+                "url": "https://t.co/NG6YO5TVSX"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 12126,
+    "favorited": false,
+    "geo": null,
+    "id": 1308931591931133953,
+    "id_str": "1308931591931133953",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1940,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "JUST SAY HER NAME https://t.co/NG6YO5TVSX",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 23 16:24:36 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16170744,
+                "id_str": "16170744",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Clicquot Rico",
+                "screen_name": "AstronautKI"
+            }
+        ]
+    },
+    "favorite_count": 6785,
+    "favorited": false,
+    "geo": null,
+    "id": 1308804469103251464,
+    "id_str": "1308804469103251464",
+    "in_reply_to_screen_name": "AstronautKI",
+    "in_reply_to_status_id": 1308800955819921413,
+    "in_reply_to_status_id_str": "1308800955819921413",
+    "in_reply_to_user_id": 16170744,
+    "in_reply_to_user_id_str": "16170744",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 228,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AstronautKI I think that sounds about right! \ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 21 19:51:12 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/BleacherReport\u2026",
+                "expanded_url": "https://twitter.com/BleacherReport/status/1308055825538265089",
+                "indices": [
+                    95,
+                    118
+                ],
+                "url": "https://t.co/RJgDVkByoZ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 80094297,
+                "id_str": "80094297",
+                "indices": [
+                    78,
+                    91
+                ],
+                "name": "Deion Sanders",
+                "screen_name": "DeionSanders"
+            }
+        ]
+    },
+    "favorite_count": 37302,
+    "favorited": false,
+    "geo": null,
+    "id": 1308131686941687811,
+    "id_str": "1308131686941687811",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Sep 21 14:49:45 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1308055825538265089",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "url": "https://t.co/fYadAal3FD"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 38458,
+        "favorited": false,
+        "geo": null,
+        "id": 1308055825538265089,
+        "id_str": "1308055825538265089",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 9338,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Deion Sanders was named head coach of Jackson State today.\n\nThis is how he arrived to the press conference \ud83d\udc10\u2026 https://t.co/fYadAal3FD",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Mar 10 23:52:36 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Get the Free B/R App",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "br.app.link/Get-the-BR-app",
+                            "expanded_url": "https://br.app.link/Get-the-BR-app",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/GRVM0pLrPa"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 296,
+            "follow_request_sent": false,
+            "followers_count": 9070948,
+            "following": false,
+            "friends_count": 678,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 890891,
+            "id_str": "890891",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 16880,
+            "location": "",
+            "name": "Bleacher Report",
+            "notifications": false,
+            "profile_background_color": "444444",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/890891/1599757022",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1266052551989919745/4D5slyzm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266052551989919745/4D5slyzm_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "BleacherReport",
+            "statuses_count": 129152,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/GRVM0pLrPa",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 1308055825538265089,
+    "quoted_status_id_str": "1308055825538265089",
+    "retweet_count": 4809,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "My guy showed up like Prince Akeem when he came to America!! Love to see it!  @DeionSanders \ud83d\udc10! https://t.co/RJgDVkByoZ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 21 17:19:30 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/wGXg54IbaZ",
+                "expanded_url": "https://twitter.com/KingJames/status/1308093507551330308/photo/1",
+                "id": 1308093493538181120,
+                "id_str": "1308093493538181120",
+                "indices": [
+                    16,
+                    39
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EidIGg9X0AA1B18.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EidIGg9X0AA1B18.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 272,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "medium": {
+                        "h": 272,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "small": {
+                        "h": 272,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/wGXg54IbaZ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 24007253,
+                "id_str": "24007253",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "73-9 and they LIED \ud83c\udfc1",
+                "screen_name": "CuffsTheLegend"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/wGXg54IbaZ",
+                "expanded_url": "https://twitter.com/KingJames/status/1308093507551330308/photo/1",
+                "id": 1308093493538181120,
+                "id_str": "1308093493538181120",
+                "indices": [
+                    16,
+                    39
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EidIGg9X0AA1B18.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EidIGg9X0AA1B18.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 272,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "medium": {
+                        "h": 272,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "small": {
+                        "h": 272,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "animated_gif",
+                "url": "https://t.co/wGXg54IbaZ",
+                "video_info": {
+                    "aspect_ratio": [
+                        45,
+                        34
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EidIGg9X0AA1B18.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "favorite_count": 1292,
+    "favorited": false,
+    "geo": null,
+    "id": 1308093507551330308,
+    "id_str": "1308093507551330308",
+    "in_reply_to_screen_name": "CuffsTheLegend",
+    "in_reply_to_status_id": 1308088819762302978,
+    "in_reply_to_status_id_str": "1308088819762302978",
+    "in_reply_to_user_id": 24007253,
+    "in_reply_to_user_id_str": "24007253",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 118,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CuffsTheLegend https://t.co/wGXg54IbaZ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 21 16:47:01 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "morethanavote.org",
+                "expanded_url": "https://www.morethanavote.org/",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/Dvi6DVGPHh"
+            },
+            {
+                "display_url": "committee.org",
+                "expanded_url": "http://committee.org/",
+                "indices": [
+                    65,
+                    88
+                ],
+                "url": "https://t.co/EEoKl6YNXY"
+            },
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1308085334299701250",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/ZMao729H1A"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 3435,
+    "favorited": false,
+    "geo": null,
+    "id": 1308085334299701250,
+    "id_str": "1308085334299701250",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Sep 21 07:08:22 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1307939713710542853",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/grGYi9CocV"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 1273305944902873089,
+                    "id_str": "1273305944902873089",
+                    "indices": [
+                        47,
+                        61
+                    ],
+                    "name": "More Than A Vote",
+                    "screen_name": "morethanavote"
+                },
+                {
+                    "id": 23083404,
+                    "id_str": "23083404",
+                    "indices": [
+                        70,
+                        80
+                    ],
+                    "name": "LeBron James",
+                    "screen_name": "KingJames"
+                }
+            ]
+        },
+        "favorite_count": 210,
+        "favorited": false,
+        "geo": null,
+        "id": 1307939713710542853,
+        "id_str": "1307939713710542853",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 66,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "The sweatshirt is just one of many pieces from @MoreThanaVote\u2019s, (the @KingJames-founded organization that fights s\u2026 https://t.co/grGYi9CocV",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Apr 23 18:33:32 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official Twitter page of Vogue Magazine.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "vogue.com",
+                            "expanded_url": "http://www.vogue.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/vaoj57vMYU"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 5487,
+            "follow_request_sent": false,
+            "followers_count": 13710494,
+            "following": false,
+            "friends_count": 511,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 136361303,
+            "id_str": "136361303",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 21733,
+            "location": "New York, NY",
+            "name": "Vogue Magazine",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/136361303/1600952816",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/949349571087536129/jClOJzBv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/949349571087536129/jClOJzBv_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "voguemagazine",
+            "statuses_count": 157468,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/vaoj57vMYU",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 1307939713710542853,
+    "quoted_status_id_str": "1307939713710542853",
+    "retweet_count": 457,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Shop MTAV https://t.co/Dvi6DVGPHh \ud83d\udcaf going to https://www.lawyers https://t.co/EEoKl6YNXY\u00a0\nSupport Black voters, be\u2026 https://t.co/ZMao729H1A",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 21 03:07:27 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/nba/status/130\u2026",
+                "expanded_url": "https://twitter.com/nba/status/1307876375517331456",
+                "indices": [
+                    47,
+                    70
+                ],
+                "url": "https://t.co/w7WrjAre2Z"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 159113258,
+                "id_str": "159113258",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "Anthony Davis",
+                "screen_name": "AntDavis23"
+            }
+        ]
+    },
+    "favorite_count": 132927,
+    "favorited": false,
+    "geo": null,
+    "id": 1307879086056972288,
+    "id_str": "1307879086056972288",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Sep 21 02:56:41 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        46,
+                        65
+                    ],
+                    "text": "TissotBuzzerBeater"
+                },
+                {
+                    "indices": [
+                        66,
+                        81
+                    ],
+                    "text": "ThisIsYourTime"
+                },
+                {
+                    "indices": [
+                        82,
+                        93
+                    ],
+                    "text": "PhantomCam"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1307876375517331456",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/31H8qbZm9m"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 20346956,
+                    "id_str": "20346956",
+                    "indices": [
+                        32,
+                        39
+                    ],
+                    "name": "Los Angeles Lakers",
+                    "screen_name": "Lakers"
+                }
+            ]
+        },
+        "favorite_count": 27532,
+        "favorited": false,
+        "geo": null,
+        "id": 1307876375517331456,
+        "id_str": "1307876375517331456",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4729,
+        "retweeted": false,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "AD cuts. Rondo finds. AD pulls. @Lakers win.\n\n#TissotBuzzerBeater\n#ThisIsYourTime\n#PhantomCam \n\nGame 3 \u23e9 Tuesday, 9\u2026 https://t.co/31H8qbZm9m",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 02 19:04:42 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Saturday's Action: DEN vs. LAL, WCF Game 5 at 9:00pm/et on TNT (Lakers lead series 3-1)",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "vote.nba.com",
+                            "expanded_url": "http://vote.nba.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/i4EKNMpfIz"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 628,
+            "follow_request_sent": false,
+            "followers_count": 31268483,
+            "following": false,
+            "friends_count": 1743,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 19923144,
+            "id_str": "19923144",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 49450,
+            "location": "",
+            "name": "NBA",
+            "notifications": false,
+            "profile_background_color": "003969",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19923144/1600264971",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1309695157365809155/I8EFQHM3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1309695157365809155/I8EFQHM3_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "NBA",
+            "statuses_count": 263041,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/i4EKNMpfIz",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 1307876375517331456,
+    "quoted_status_id_str": "1307876375517331456",
+    "retweet_count": 16152,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "HE DIFFERENT!!!! @AntDavis23 You Silly!! \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/w7WrjAre2Z",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 20 02:28:05 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 16633,
+    "favorited": false,
+    "geo": null,
+    "id": 1307506789576069126,
+    "id_str": "1307506789576069126",
+    "in_reply_to_screen_name": "KingJames",
+    "in_reply_to_status_id": 1307505810319323137,
+    "in_reply_to_status_id_str": "1307505810319323137",
+    "in_reply_to_user_id": 23083404,
+    "in_reply_to_user_id_str": "23083404",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 650,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "*are",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 20 02:24:12 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1307505810319323137",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/f8CW8fPJP4"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 115869,
+    "favorited": false,
+    "geo": null,
+    "id": 1307505810319323137,
+    "id_str": "1307505810319323137",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 17173,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Exactly why I have my close circle cause as soon as you try to expand to a square the people who you thought was in\u2026 https://t.co/f8CW8fPJP4",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 19 04:36:17 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 342758,
+    "favorited": false,
+    "geo": null,
+    "id": 1307176665370554369,
+    "id_str": "1307176665370554369",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 52799,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\ud83e\udd23\ud83e\udd2316 out of 101 \ud83d\uddf3! Ok cool! I got y\u2019all.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 19 04:23:09 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16812787,
+                "id_str": "16812787",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Dwight Howard",
+                "screen_name": "DwightHoward"
+            }
+        ]
+    },
+    "favorite_count": 29850,
+    "favorited": false,
+    "geo": null,
+    "id": 1307173360812658689,
+    "id_str": "1307173360812658689",
+    "in_reply_to_screen_name": "DwightHoward",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16812787,
+    "in_reply_to_user_id_str": "16812787",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3448,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@DwightHoward &amp; Doe was flat out AMAZING tonight!!! Big Time \u270a\ud83c\udffe\ud83d\udcaa\ud83c\udffe",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 18 01:14:48 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 85640,
+    "favorited": false,
+    "geo": null,
+    "id": 1306763569011273728,
+    "id_str": "1306763569011273728",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 8235,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Burrow is SPECIAL! He has the \u201cIT\u201d for sure.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 18 01:07:01 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/JimmySpencer/s\u2026",
+                "expanded_url": "https://twitter.com/JimmySpencer/status/1306761370369622016",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/ZX5MFn1V1Z"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 3836,
+    "favorited": false,
+    "geo": null,
+    "id": 1306761613748379648,
+    "id_str": "1306761613748379648",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Sep 18 01:06:03 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/obj/status/130\u2026",
+                    "expanded_url": "https://twitter.com/obj/status/1306678129814110208",
+                    "indices": [
+                        58,
+                        81
+                    ],
+                    "url": "https://t.co/XtTlLoJ1is"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 2966774301,
+                    "id_str": "2966774301",
+                    "indices": [
+                        4,
+                        18
+                    ],
+                    "name": "UNINTERRUPTED",
+                    "screen_name": "uninterrupted"
+                },
+                {
+                    "id": 288956125,
+                    "id_str": "288956125",
+                    "indices": [
+                        21,
+                        31
+                    ],
+                    "name": "Maverick Carter",
+                    "screen_name": "mavcarter"
+                },
+                {
+                    "id": 380730306,
+                    "id_str": "380730306",
+                    "indices": [
+                        51,
+                        55
+                    ],
+                    "name": "Odell Beckham Jr",
+                    "screen_name": "obj"
+                }
+            ]
+        },
+        "favorite_count": 154,
+        "favorited": false,
+        "geo": null,
+        "id": 1306761370369622016,
+        "id_str": "1306761370369622016",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status_id": 1306678129814110208,
+        "quoted_status_id_str": "1306678129814110208",
+        "retweet_count": 22,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The @uninterrupted x @mavcarter golden touch. \n\nTD @obj \ud83c\udfc8 https://t.co/XtTlLoJ1is",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Dec 18 21:31:55 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Vice President, Athlete Relations at @TheSpringHillCo (@UNINTERRUPTED) | Hippy-type Jesus lover | Many years prior around the NBA | IG: @JimmySpencerUN",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "uninterrupted.com",
+                            "expanded_url": "http://www.uninterrupted.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ZiQTf4Vf9R"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 17199,
+            "follow_request_sent": false,
+            "followers_count": 32416,
+            "following": false,
+            "friends_count": 5224,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 97752150,
+            "id_str": "97752150",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 549,
+            "location": "L.A. \u2014 jimmy@uninterrupted.com",
+            "name": "Jimmy Spencer",
+            "notifications": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/97752150/1537246669",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1197917292807385088/Xkc4zNNC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197917292807385088/Xkc4zNNC_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "JimmySpencer",
+            "statuses_count": 954,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/ZiQTf4Vf9R",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 1306761370369622016,
+    "quoted_status_id_str": "1306761370369622016",
+    "retweet_count": 175,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Yessir!!! https://t.co/ZX5MFn1V1Z",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 16:25:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJamesFamilyFoundation.org",
+                        "expanded_url": "http://LeBronJamesFamilyFoundation.org",
+                        "indices": [
+                            34,
+                            56
+                        ],
+                        "url": "http://t.co/IneJylUd1m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "LeBronJames.com",
+                        "expanded_url": "http://LeBronJames.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TuET0GeB2Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 47526711,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23083404,
+        "id_str": "23083404",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43850,
+        "location": "Amongst La Familia!",
+        "name": "LeBron James",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+        "profile_link_color": "FBAF41",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingJames",
+        "statuses_count": 7245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TuET0GeB2Z",
+        "utc_offset": null,
+        "verified": true
+    }
+}
