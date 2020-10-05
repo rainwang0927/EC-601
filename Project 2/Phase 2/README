@@ -1,0 +1,16 @@
+Define MVP and user stories
+The minimum value product is to analyze people reaction of a specific stuff in social media.
+As a product owner, I want to know what people are saying about my product in social media, so I use a sentiment analyzer to know how people reacted to it.
+As a sociologist, I want to figure out how people feeling about someone, so I can use it to analyze how people feeling about specific person. 
+
+1. Install the libraries
+pip3 install tweepy nltk google-cloud-language python-telegram-bot
+Using tweepy to gather the tweet data
+Nltk to clean the tweets
+Google nlp will do the sentiment analysis
+Python-telegram-bot will send the result through Telegram chat
+
+2. Do what I did on project 2 phase 1, and combined both program
+
+3.We can search the tweets with two criteria, based on time or quantity. If it’s based on time, we define the time interval and if it’s based on quantity, we define the total tweets that we want to gather. Since we want to gather the tweets from the last 24 hours with maximum tweets of 50, we will use both of the criteria.
+
