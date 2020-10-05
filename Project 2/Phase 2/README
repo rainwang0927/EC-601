@@ -18,3 +18,14 @@ Python-telegram-bot will send the result through Telegram chat
 We will use the nltk and regex libraries to help us in this process.
 We remove the username, link, numbers in every tweet.
 Last, convert all of the characters into lower space, then remove every unnecessary space.
+
+5. Analyze the sentiment of tweets we get.
+
+6. Go to telegram bot, create your own bot, then you will have the telegram token. Enter the token into the main function.
+
+7. Save the file and name it twitteranalyze.py, then run the program.
+
+8. Type any word and send it to the telegram bot, will get the result.
+
+
+
