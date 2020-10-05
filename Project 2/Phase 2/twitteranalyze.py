@@ -12,10 +12,10 @@ from datetime import datetime, timedelta
 from nltk.tokenize import WordPunctTokenizer
 
 
-ACC_TOKEN = 'Ik7yZdHLObMrMPSnZkT2luMhL'
-ACC_SECRET = '0NKdew4XwhPRNSQ6O6nmmphA136aN9yceLoyjbhWRrJhajlnXB'
-CONS_KEY = '1309945781290299392-3B61S1CL5S3YB7IfJbIVmU0GchJoZi'
-CONS_SECRET = '8nZJROGvz13lK9z5H1D6z61GxVTNEZkUWlfnl8UG4YF0U'
+ACC_TOKEN = 'TOKEN'
+ACC_SECRET = 'TOKEN'
+CONS_KEY = 'TOKEN'
+CONS_SECRET = 'TOKEN'
 
 def authentication(cons_key, cons_secret, acc_token, acc_secret):
     auth = tweepy.OAuthHandler(cons_key, cons_secret)
@@ -88,7 +88,7 @@ def send_the_result(bot, update):
                            + status)
 
 def main():
-    updater = Updater('1183895762:AAE3Ljd4wzdWYN0d0HyH25f4ERUh7I_a-Zw', use_context=True)
+    updater = Updater('Enter bot_Token', use_context=True)
     dp = updater.dispatcher
     dp.add_handler(MessageHandler(Filters.text, send_the_result))
     updater.start_polling()
