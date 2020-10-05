@@ -10,7 +10,11 @@ Nltk to clean the tweets
 Google nlp will do the sentiment analysis
 Python-telegram-bot will send the result through Telegram chat
 
-2. Do what I did on project 2 phase 1, and combined both program
+2. Do what we did on project 2 phase 1, and combined both program first.
 
 3.We can search the tweets with two criteria, based on time or quantity. If it’s based on time, we define the time interval and if it’s based on quantity, we define the total tweets that we want to gather. Since we want to gather the tweets from the last 24 hours with maximum tweets of 50, we will use both of the criteria.
 
+4. Before we analyze the tweets sentiment, we need to clean the tweets a little bit so the Google Natural Language API can identify them better.
+We will use the nltk and regex libraries to help us in this process.
+We remove the username, link, numbers in every tweet.
+Last, convert all of the characters into lower space, then remove every unnecessary space.
