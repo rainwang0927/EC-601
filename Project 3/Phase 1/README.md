@@ -9,7 +9,7 @@ But it is not working on Windows Powershell.
 So I press WindowsKey + R, and type cmd when the box comes up, it brings up the command line interface instead of powershell. Then I can install TensorFlow in it.
 Then go to the Intro to Object Detection Lab. 
 Here is the github link：https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/inference_tf2_colab.ipynb
-I have made a python file called: tensorflow.py accroading to this. This demo will take you through the steps of running an "out-of-the-box" detection model on a collection of image.
+I have made a python file called: "The interence_tf2_colab.ipynb" accroading to this. This demo will take you through the steps of running an "out-of-the-box" detection model on a collection of image. It will build a detection model and load pre-trained model weights. Also, it load label map data (for plotting), correspond index numbers to category names. Last, digging into the model's intermediate predictions
 
 From COCO website, We can easily find their Dataset. COCO API - http://cocodataset.org/
 From the dataset, we can find the github link: github.com/cocodataset/cocoapi 
