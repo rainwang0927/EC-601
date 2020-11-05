@@ -1,0 +1,31 @@
+Define MVP and user stories
+The minimum value product is to analyze people reaction of a specific stuff in social media.
+As a product owner, I want to know what people are saying about my product in social media, so I use a sentiment analyzer to know how people reacted to it.
+As a sociologist, I want to figure out how people feeling about someone, so I can use it to analyze how people feeling about specific person. 
+
+1. Install the libraries
+pip3 install tweepy nltk google-cloud-language python-telegram-bot
+Using tweepy to gather the tweet data
+Nltk to clean the tweets
+Google nlp will do the sentiment analysis
+Python-telegram-bot will send the result through Telegram chat
+
+2. Do what we did on project 2 phase 1, and combined both program first.
+
+3.We can search the tweets with two criteria, based on time or quantity. If it’s based on time, we define the time interval and if it’s based on quantity, we define the total tweets that we want to gather. Since we want to gather the tweets from the last 24 hours with maximum tweets of 50, we will use both of the criteria.
+
+4. Before we analyze the tweets sentiment, we need to clean the tweets a little bit so the Google Natural Language API can identify them better.
+We will use the nltk and regex libraries to help us in this process.
+We remove the username, link, numbers in every tweet.
+Last, convert all of the characters into lower space, then remove every unnecessary space.
+
+5. Analyze the sentiment of tweets we get.
+
+6. Go to telegram bot, create your own bot, then you will have the telegram token. Enter the token into the main function.
+
+7. Save the file and name it twitteranalyze.py, then run the program.
+
+8. Type any word and send it to the telegram bot, will get the result. I have made a screenshot of result, upload it as Result.rtf.
+
+
+

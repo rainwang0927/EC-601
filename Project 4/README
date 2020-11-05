@@ -1,0 +1,34 @@
+Twitter API
+First, I apply for a twitter account with my bu email and then apply for API access,which needs me to enter many information and purposes of applying twitter API.
+After my account have been approved, I read the Official tools and libraries about Python
+I used "pip install searchtweets" to install searchtweets library
+also used "pip install tweepy"
+then I downloaded the tweetAPIexample.py
+I copy the Customer Key, Customer Secret, Access key, and Access Secret which can be found on Twitter API main website.
+Copy these key to Twitter API credentials. 
+Everyone has individual key, and should not be shared with others.
+I faced a mistake about I am using python3, print statements now require ().
+I need to add it to my code.
+After that, I changed file = open('tweet.LBJ','w')
+and also changed the last line to get_all_tweets("@kingjames"), as I am his big fan.
+Finally, it can run out the result file called tweet.LBJ
+
+
+Google NLP
+First, I found this website https://cloud.google.com/natural-language/docs/reference/libraries?authuser=1
+This page shows how to get started with the Cloud Client Libraries for the Cloud Natural Language API。
+First installing the client library.
+use "pip install --upgrade google-cloud-language"
+Next, setting up authentication. To run the client library, I must first set up authentication by creating a service account and setting an environment variable.
+In the Cloud Console, go to the Create service account key page.
+Go to the Create Service Account Key page
+From the Service account list, select New service account.
+In the Service account name field, enter a name.
+From the Role list, select Project - Owner.
+Finally, click Create. A JSON file that contains the key automatic downloads to my computer.
+Provide authentication credentials to your application code by setting the environment variable GOOGLE_APPLICATION_CREDENTIALS. 
+Replace [PATH] with the file path of the JSON file that contains your service account key.
+This is my example: export GOOGLE_APPLICATION_CREDENTIALS="/home/ece-student/Desktop/EC 601-99508024406f.json"
+Then using the client library.
+I change the 'Hello, world!' to 'hi'
+Finally, it can run out the result contains Text and Sentiment.
