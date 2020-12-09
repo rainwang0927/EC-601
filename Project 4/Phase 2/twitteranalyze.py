@@ -12,11 +12,10 @@ from datetime import datetime, timedelta
 from nltk.tokenize import WordPunctTokenizer
 
 # use your own Twitter API Keys
-ACC_TOKEN = 'TOKEN'
-ACC_SECRET = 'TOKEN'
-CONS_KEY = 'TOKEN'
-CONS_SECRET = 'TOKEN'
-
+CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+CONSUMER_SECRET:  ${{ secrets.CONSUMER_SECRET }} 
+ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
 # Make a function called 'authentication' to connect to the API, with four parameters which are all of the keys.
 def authentication(cons_key, cons_secret, acc_token, acc_secret):
     auth = tweepy.OAuthHandler(cons_key, cons_secret)
